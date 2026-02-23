@@ -1,5 +1,3 @@
-# Bike_sharing_data_analysis
-
 # Chicago Divvy Bike-Share — Time Series Analysis (2023)
 
 Analysis of the full-year 2023 Chicago Divvy bike-share dataset. The project covers data collection, quality assessment, classical time series decomposition, stationarity testing, autocorrelation analysis, a comparative city study (Chicago vs Washington D.C.), and baseline forecasting models.
