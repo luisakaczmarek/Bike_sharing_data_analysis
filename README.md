@@ -12,6 +12,7 @@ Analysis of the full-year 2023 Chicago Divvy bike-share dataset. The project cov
 ├── task_1_1_fetch_citybikes_stations.py
 ├── task_1_2_download_divvy_2023.py
 ├── requirements.txt
+├── final_report.pdf
 └── README.md
 ```
 
